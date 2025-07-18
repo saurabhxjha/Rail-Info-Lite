@@ -45,3 +45,4 @@ app.*.map.json
 /android/app/release
 .env
 .metadata
+assets/05-04-2025/*.MP4
