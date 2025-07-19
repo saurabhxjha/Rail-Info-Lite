@@ -6,6 +6,7 @@
 .DS_Store
 .atom/
 .build/
+build/
 .buildlog/
 .history
 .svn/
@@ -43,6 +44,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Sensitive and large files
 .env
 .metadata
-assets/05-04-2025/*.MP4
+*.mp4
+*.apk
+*.aab
+assets/05-04-2025/
